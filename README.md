@@ -83,6 +83,18 @@ width="30px"
 style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 />
+---
+
+
+### 📊 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arturqueiroz&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturqueiroz&layout=compact&theme=tokyonight"/>
+
+</p>
 
 <br/>
 <br/>
