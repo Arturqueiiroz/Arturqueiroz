@@ -27,9 +27,9 @@ Tenho interesse em criar aplicações bem estruturadas e continuar evoluindo min
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arturqueiroz&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arturqueiiroz&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturqueiroz&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturqueiiroz&layout=compact&theme=tokyonight"/>
 
 </div>
 
