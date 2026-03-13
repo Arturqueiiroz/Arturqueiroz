@@ -2,9 +2,11 @@
 
 **Estudante de Tecnologia | Desenvolvedor Web**
 
-Sou estudante de tecnologia e desenvolvedor web, com experiência no desenvolvimento de aplicações utilizando **HTML, CSS, JavaScript e C#**.
+Sou **estudante de tecnologia** e **desenvolvedor web**, com experiência no desenvolvimento de **aplicações e interfaces** utilizando **HTML, CSS, JavaScript e C#**, além de conhecimentos em **banco de dados** e **lógica de programação**.
 
-Tenho interesse em criar aplicações bem estruturadas e continuar evoluindo minhas habilidades na área de desenvolvimento.
+Também possuo experiência com **.NET MAUI**, desenvolvendo **aplicações multiplataforma** e explorando conceitos de **arquitetura de software** e **integração de dados**.
+
+Tenho interesse em construir **aplicações bem estruturadas**, **eficientes** e com **boa experiência para o usuário**, buscando constantemente **evoluir minhas habilidades** e **participar de projetos que resolvam problemas reais por meio da tecnologia**.
 
 ---
 
